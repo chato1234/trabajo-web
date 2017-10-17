@@ -53,3 +53,4 @@ var mm = {
 }
 
 mm.inicioMouse();
+///para colocar otra imagen tiene q ser correlativo

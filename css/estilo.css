@@ -183,6 +183,15 @@ efecto del mouse
 /*=============================================
 efecto del scroll
 =============================================*/
+#fotoFondo{
+	position: fixed;/*fija*/
+	height: 100%;
+	width: 100%;
+	z-index: -10;
+	background: url(../img/slide/slide03.jpg);
+	background-size: cover;/*que cubra toda la pantalla*/
+}
+
 
 #scroll article aside{
 	border: 1px solid silver;
